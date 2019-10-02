@@ -1,0 +1,8 @@
+D:\vs15\projects\UnWrap\UnWrap\bin\Release\UnWrap.exe.config
+D:\vs15\projects\UnWrap\UnWrap\bin\Release\UnWrap.exe
+D:\vs15\projects\UnWrap\UnWrap\bin\Release\UnWrap.pdb
+D:\vs15\projects\UnWrap\UnWrap\obj\Release\UnWrap.frmUnwrap.resources
+D:\vs15\projects\UnWrap\UnWrap\obj\Release\UnWrap.Properties.Resources.resources
+D:\vs15\projects\UnWrap\UnWrap\obj\Release\UnWrap.csproj.GenerateResource.Cache
+D:\vs15\projects\UnWrap\UnWrap\obj\Release\UnWrap.exe
+D:\vs15\projects\UnWrap\UnWrap\obj\Release\UnWrap.pdb
